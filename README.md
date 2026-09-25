@@ -28,11 +28,11 @@ casing, outliers, and a data-entry typo) so the cleaning step is meaningful.
 ## Project Structure
 
 ```
-├── PittalaSaiAparna_HousePricePrediction.py   # Single-file Streamlit app (cleaning, KPIs, EDA, model)
+├── HousePricePrediction.py                     # Single-file Streamlit app (cleaning, KPIs, EDA, model)
 ├── generate_data.py                            # Script used to generate the sample dataset
 ├── house_price_raw.csv                         # Raw sample dataset
 ├── requirements.txt                            # Python dependencies
-├── PittalaSaiAparna_ProjectReport.docx          # Full project report
+├── ProjectReport.docx                          # Full project report
 └── README.md
 ```
 
